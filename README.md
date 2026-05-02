@@ -27,7 +27,7 @@ Tech Stack
 
 Installation
 
-git clone https://github.com/your-username/blog-api.git
+git clone https://github.com/crypthink00/blog-api.git
 cd blog-api
 npm install
 
